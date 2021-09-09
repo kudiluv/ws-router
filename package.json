@@ -1,0 +1,22 @@
+{
+  "name": "ws-router",
+  "version": "0.0.1",
+  "description": "router for WebSocket",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kudiluv/ws-router.git"
+  },
+  "keywords": [
+    "ws",
+    "WebSocket",
+    "router",
+    "controller"
+  ],
+  "author": "igor kudlayov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kudiluv/ws-router/issues"
+  },
+  "homepage": "https://github.com/kudiluv/ws-router#readme"
+}
